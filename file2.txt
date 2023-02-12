@@ -1,1 +1,2 @@
 This is file2.txt
+This line was added on the local hit repo
